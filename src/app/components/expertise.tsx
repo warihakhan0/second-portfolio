@@ -22,7 +22,7 @@ const Expertise = () => {
         <div className='bg-[#f5fcff] md:w-2/4 p-5 hover:drop-shadow-lg rounded-[7px]'>
         <IoPricetags  className='text-green-800 bg-white rounded-[4px] p-1 text-4xl mb-2'/>
         <h2 className='text-lg font-semibold mb-2'>Branding & Logo</h2>
-        <p className='text-[13px]'>From eye-catching flyers to scroll-stopping thumbnails, bold banners to timeless logos—every design is a blend of creativity and purpose. Whether it's building a brand's identity or making your message shine, I turn ideas into visuals that inspire, engage, and leave a lasting impression.</p>
+        <p className='text-[13px]'>From eye-catching flyers to scroll-stopping thumbnails, bold banners to timeless logos—every design is a blend of creativity and purpose. Whether it&apos;s building a brand&apos;s identity or making your message shine, I turn ideas into visuals that inspire, engage, and leave a lasting impression.</p>
         <h2  className='text-[13px] font-semibold'> Your vision, my design—together, we create magic!</h2>
         </div>
         {/* third div */}
